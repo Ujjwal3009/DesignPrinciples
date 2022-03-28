@@ -41,3 +41,26 @@ class Client{
 	
 	
 }
+
+/*
+ apiKey: "AIzaSyC0UT0EUYVsYWebwpvTcG-LlaIdmBqCRCs",
+  authDomain: "quora-2cc0f.firebaseapp.com",
+  projectId: "quora-2cc0f",
+  storageBucket: "quora-2cc0f.appspot.com",
+  messagingSenderId: "713658860064",
+  appId: "1:713658860064:web:af7686965d05ae3adc7245"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
